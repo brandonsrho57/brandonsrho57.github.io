@@ -2,7 +2,7 @@
   color: purple;
 }
 a:hover {
-  color: blue;
+  background-color: aquamarine;
 }
 #bubbletea{
   color: purple;
@@ -15,4 +15,13 @@ a:hover {
 }
 #wowzers{
   color: orange;
+}
+.velocity{
+  color: magenta;
+}
+.magnitude{
+  color: turquoise;
+}
+a{
+  color: cadetblue;
 }
