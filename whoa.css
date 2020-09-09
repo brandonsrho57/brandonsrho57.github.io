@@ -1,3 +1,6 @@
 #thelist{
   color: purple;
 }
+a:hover {
+  color: blue;
+}
