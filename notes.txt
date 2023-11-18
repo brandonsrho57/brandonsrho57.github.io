@@ -1,0 +1,13 @@
+What do I want to include in my profile page?
+
+1. Navbar, with responsive UI
+
+2. My name along with a short description about myself including my occupation
+
+3. Links to my social media and other pages about myself that I can include
+
+4. My resume in intuitive fashion: Job/Dates on the left and Description on the right
+
+5. Projects I can show off
+
+6. Personals Section where I detail what I did outside of academics
