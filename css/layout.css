@@ -635,8 +635,13 @@ ul#nav li.current a { color: #F06000; }
    color: black;
 }
 
+
+
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .firstrow + .newrow{
+  grid-column-start: 1;
+}
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
