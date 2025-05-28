@@ -1,4 +1,4 @@
-# Personal Website Resume for Computer Science 
+# Personal Website Resume for Product Management
 
 
 Edited by Brandon Rho with inspiration from Sunwoo Kang
